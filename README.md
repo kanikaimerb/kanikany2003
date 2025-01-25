@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kanika from Thailand.
+# Hi 👋, I'm Kanika.
 <a href="https://www.linkedin.com/in/kanika-im-erb-475643267/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
