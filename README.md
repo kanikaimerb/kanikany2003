@@ -1,5 +1,8 @@
 # Hi 👋, I'm Kanika from Thailand.
-<a href="https://www.linkedin.com/in/kanika-im-erb-475643267/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kanika-im-erb-475643267/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 - 🇮🇳 Currently studying at National Forensic Science University, Gujarat, India. 
 - 🪷 ICCR Scholar from the Government of India.
