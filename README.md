@@ -2,9 +2,6 @@
 <a href="https://www.linkedin.com/in/kanika-im-erb-475643267/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/kanika-im-erb-475643267/">
-    <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" width="100"/>
-</a>
 
 
 - 🇮🇳 Currently studying at National Forensic Science University, Gujarat, India. 
