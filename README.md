@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-
+- 🇹🇭 I'm from **Thailand**
 - 🇮🇳 Currently studying at **National Forensic Science University, Gujarat, India**. 
 - 🪷 **ICCR Scholar from the Government of India**.
 - 👩‍💻 I'm curently working on Computer Engineering with a focus on **Cybersecurity**.
