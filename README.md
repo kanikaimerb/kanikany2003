@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 > **Bridging Academic Excellence with Enterprise Security Operations**
 
@@ -25,49 +25,6 @@
 🌏 Originally from **Thailand**, bringing a global perspective to security challenges
 
 💡 Passionate about building secure, resilient systems and staying ahead of emerging threats
-
----
-
-## 💼 Professional Experience
-
-### 🏢 Security Operations Intern | Omise (Thailand Fintech Leader)
-**IT & Security Department** | *May 2025 - July 2025*
-
-<details>
-<summary><b>🛡️ Security Monitoring & Incident Response</b></summary>
-
-- Engineered **50+ custom security detection rules** in Datadog with MITRE ATT&CK framework alignment
-- Implemented **real-time log monitoring** across cloud infrastructure, processing 10M+ daily events
-- Authored **security playbooks** for incident response with NIST and CIS compliance standards
-- Reduced mean time to detect (MTTD) by implementing automated alerting workflows
-
-**Technologies:** Datadog, Graylog, Grafana, MITRE ATT&CK, NIST Framework
-
-</details>
-
-<details>
-<summary><b>⚖️ Risk Management & Compliance</b></summary>
-
-- Conducted comprehensive **risk assessments** for fintech payment infrastructure
-- Developed **Key Risk Indicators (KRIs)** and risk descriptions with actionable mitigation plans
-- Delivered detailed **compliance documentation** for Risk Committee review
-- Aligned security controls with **ISO 27001, NIST, and CIS** frameworks
-
-**Frameworks:** ISO 27001, NIST CSF, CIS Controls, Risk Assessment Methodologies
-
-</details>
-
-<details>
-<summary><b>🔧 Security Tools & Automation</b></summary>
-
-- Built custom **dashboards for security event analysis** using Graylog and Datadog
-- Enhanced **alerting mechanisms** for faster threat detection and response
-- Automated **log correlation** workflows for security incident investigation
-- Optimized SIEM configuration for high-volume transaction monitoring
-
-**Tools:** Graylog, Datadog, Splunk (Basic), Grafana, CloudWatch
-
-</details>
 
 ---
 
@@ -172,8 +129,6 @@
 📅 *Jan 2022 - Aug 2026* | 📍 Gujarat, India
 
 - 🏆 **ICCR Scholar** - Awarded by Indian Council for Cultural Relations
-- 📈 **GPA:** 3.21/4.0
-- 🔬 Specialized coursework in cybersecurity, digital forensics, and threat intelligence
 
 ### 📜 Professional Certifications
 
@@ -181,45 +136,6 @@
 
 ![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity_Certificate+-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![AWS Academy](https://img.shields.io/badge/AWS_Academy_Graduate+-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Currently Learning & Building
-
-```python
-current_focus = {
-    "learning": [
-        "Advanced Penetration Testing & Ethical Hacking",
-        "Red Team Operations & Adversary Simulation",
-        "Cloud Security Architecture (AWS)",
-        "Threat Hunting & Detection Engineering"
-    ],
-    "building": [
-        "Custom SIEM Detection Rules Repository",
-        "Security Automation Scripts",
-        "CTF Challenge Solutions"
-    ],
-    "reading": [
-        "MITRE ATT&CK Framework Deep Dive",
-        "Cloud Security Best Practices",
-        "Incident Response Playbooks"
-    ]
-}
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -247,14 +163,8 @@ I'm always excited to collaborate on cybersecurity projects, discuss the latest 
 
 <div align="center">
 
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](YOUR_LINKEDIN_URL)  
-🌐 **Portfolio:** [yourportfolio.com](YOUR_PORTFOLIO_URL)
-
 ---
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-
-**"Security is not a product, but a process."** - Bruce Schneier
 
 </div>
